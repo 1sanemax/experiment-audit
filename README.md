@@ -381,6 +381,7 @@ is genuinely appreciated:
 Built and maintained by **Sree Dharshan G J** and **Surya Narayanan Sivam**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SreeDharshan--GJ-181717?logo=github)](https://github.com/SreeDharshan-GJ)
+[![GitHub](https://img.shields.io/badge/GitHub-1sanemax-181717?logo=github)](https://github.com/1sanemax)
 
 If this project is useful to you, a star on the repo is the easiest way to support it and
 helps others find it.
