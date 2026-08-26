@@ -376,7 +376,7 @@ is genuinely appreciated:
 
 <br>
 
-## Author
+## Authors
 
 Built and maintained by **Sree Dharshan G J**.
 
