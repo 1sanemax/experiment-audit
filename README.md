@@ -378,7 +378,7 @@ is genuinely appreciated:
 
 ## Author
 
-Built and maintained by **Sree Dharshan G J**.
+Built and maintained by **Sree Dharshan G J** and **Surya Narayanan Sivam**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SreeDharshan--GJ-181717?logo=github)](https://github.com/SreeDharshan-GJ)
 
