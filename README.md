@@ -367,7 +367,7 @@ is genuinely appreciated:
 
 ```bibtex
 @software{experiment_audit,
-  author  = {Sreedharshan G J},
+  authors  = {Sreedharshan G J,Surya Narayanan Sivam},
   title   = {experiment-audit: A Scientific Research Reasoning Engine for ML Experiments},
   year    = {2026},
   url     = {https://github.com/SreeDharshan-GJ/experiment-audit}
